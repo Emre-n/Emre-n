@@ -4,7 +4,7 @@
 
 ## Front End Developer | Student
 
-<font color="orange">Coffe coff is how I keep up with '< code />' </font>
+<font color="orange">Coffe coffe is how I keep up with '< code />' </font>
 
 ### Reach Out To Me
 
